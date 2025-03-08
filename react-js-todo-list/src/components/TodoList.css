@@ -1,0 +1,20 @@
+.todos {
+    display: flex;
+    width: 15%;
+    justify-content: space-between;
+}
+
+ul {
+    padding-left: 0;
+}
+
+.todos li {
+    list-style: none;
+}
+
+.todo-icons {
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+}
+
